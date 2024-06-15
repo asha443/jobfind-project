@@ -1,0 +1,41 @@
+body{
+    background-color:#e9edef;
+}
+div{
+    margin-top:140px ;
+    align-items: center;
+}
+img{
+    height: 200px;
+    width:200px;
+    margin-left: 640px;
+    border-radius: 50%;
+    
+}
+img:hover{
+    box-shadow: 0 0 200px #ccff33;
+}
+h1{
+    color: black;
+    text-align: center;
+    
+}
+span{
+    color: #ccff33;
+}
+p{
+    color: black;
+    text-align: center;
+}
+button{
+    margin-left: 47%;
+    padding: 10px 25px;
+    color: black;
+    background-color:#ccff33;
+    border-radius: 20px;
+    box-shadow: 0 0 35px #ccff33;
+}
+button:hover{
+    background-color: white;
+    box-shadow: 0 0 25px #ccff33;
+}
